@@ -1,0 +1,17 @@
+print(" Rhombus")
+print("---------  ")
+
+
+print("     ____________     ")
+print("     \           \ ")
+print("      \           \ ")
+print("       \___________\  ")
+
+
+print(" Parralellogram")
+print("---------  ")
+
+
+print("     ____________     ")
+print("     \           \ ")
+print("      \___________\ ")
